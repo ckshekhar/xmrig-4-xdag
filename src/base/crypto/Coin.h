@@ -41,6 +41,7 @@ public:
         ZEPHYR,
         TOWNFORGE,
         YADA,
+        XDAG,
         MAX
     };
 
