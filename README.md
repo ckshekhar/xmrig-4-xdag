@@ -19,9 +19,11 @@
 
 ## Available on theses OS/platforms :
 * Windows 10 x64 and upper.
-* Linux Ubuntu 18.04 / 20.04 / 22.04 / 22.10
+
+* Linux Ubuntu x64 18.04 / 20.04 / 22.04 / 23.04
+* Debian 11 ARM64 (Rpi 4 & android smartphone)
 * Hive OS (Ubuntu 18.04)
-* FreeBSD 13.1
+* FreeBSD 13.2
 * MacOS x64 darwin (10.5.x and upper)
 * CentOS 8
 
@@ -41,7 +43,8 @@ Check Github [wiki pages](https://github.com/FSOL-XDAG/xmrig-4-xdag/wiki#how-to-
 
 ## Usefull link
 * [Medium](https://medium.com/@fsol)
-* [Discord]([https://medium.com/@fsol](https://discord.gg/fHE4sJ7NKt))
+* [XDAG.eu](https://www.xdag.eu)
+* [Discord](https://discord.gg/fHE4sJ7NKt)
 * [Twitter](https://twitter.com/Chrix_Switch)
 * [How to](https://1to.fr)
 
