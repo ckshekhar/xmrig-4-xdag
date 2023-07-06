@@ -19,6 +19,7 @@
 
 ## Available on theses OS/platforms :
 * Windows 10 x64 and upper.
+
 * Linux Ubuntu x64 18.04 / 20.04 / 22.04 / 23.04
 * Debian 11 ARM64 (Rpi 4 & android smartphone)
 * Hive OS (Ubuntu 18.04)

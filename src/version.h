@@ -22,6 +22,7 @@
 #define APP_ID        "xmrig-4-xdag"
 #define APP_NAME      "XMRig-4-XDAG"
 #define APP_DESC      "XMRig-4-XDAG miner"
+
 #define APP_VERSION   "6.20.0"
 #define APP_DOMAIN    "xdag.io"
 #define APP_SITE      "www.xdag.io"
