@@ -169,6 +169,10 @@ size_t xmrig::Job::nonceOffset() const
         return 147;
     }
 
+    if (algorithm() == Algorithm::RX_XDAG) {
+        return 60;
+    }
+
     return 39;
 }
 
@@ -202,16 +206,6 @@ void xmrig::Job::setSigKey(const char *sig_key)
 #   endif
 }
 
-
-int32_t xmrig::Job::nonceOffset() const
-{
-   auto f = algorithm().family();
-   auto i = algorithm().id();
-   if (f == Algorithm::KAWPOW)     return 32;
-   if (f == Algorithm::GHOSTRIDER) return 76;
-   if (i == Algorithm::RX_XDAG)    return 60;
-   return 39;
-}
 
 uint32_t xmrig::Job::getNumTransactions() const
 {
